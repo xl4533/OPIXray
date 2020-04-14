@@ -50,7 +50,7 @@ If you want to train your own model, you can download pre-trained weight of SSD 
 
    (3) python test.py --trained_model /mnt/model/SSD/weights/DOAM.pth --imagesetfile /mnt/OPIXray_Dataset/test/test_knife.txt
 
-   **trained_model **is the weight file you want to test
+   **trained_model** is the weight file you want to test
 
 4. If you want to test our model with different occlusion level, execute the following command:
 
