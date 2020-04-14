@@ -26,7 +26,7 @@ If you want to train your own model, you can download pre-trained weight of SSD 
 
 1. Clone the OPIXray repository
 
-​		git clone https://github.com/xl4533/OPIXray.git
+   git clone https://github.com/xl4533/OPIXray.git
 
 2. If you want to train your model, execute the following command:
 
